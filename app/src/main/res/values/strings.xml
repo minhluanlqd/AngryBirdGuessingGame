@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+    <string-array name="list_name">
+        <item>birds1</item>
+        <item>birds2</item>
+        <item>birds3</item>
+        <item>birds4</item>
+        <item>birds5</item>
+        <item>birds6</item>
+        <item>birds7</item>
+        <item>birds8</item>
+        <item>birds9</item>
+        <item>minion1</item>
+        <item>minion2</item>
+        <item>minion3</item>
+        <item>minion4</item>
+        <item>minion5</item>
+        <item>minion6</item>
+    </string-array>
+</resources>
